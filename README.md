@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpgr0306
 - 👀 I’m interested in Java applications, IoT, cryptography and information technology in general.
-- 🌱 I’m currently learning databases.
+- 🌱 I’m currently learning BI, data science and design and analysis of algorithms.
 - 📫 How to reach me:
 joaopedroribeiro@alunos.utfpr.edu.br
 

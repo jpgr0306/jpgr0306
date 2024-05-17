@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpgr0306
-- 👀 I’m interested in Java, Business Intelligence, Cryptography and Information Technology in general.
+- 👀 I’m interested in Java, Business Intelligence (BI), Cryptography and Information Technology in general.
 - 🌱 I’m currently learning BI, cryptography and computer networks.
 - 📫 How to reach me:
 joaopedroribeiro@alunos.utfpr.edu.br
